@@ -12,6 +12,9 @@ Vlastní aplikace pro mod CC:Tweaked do hry Minecraft vytvořený pro video sér
 **Clayman**: <br/>
 `wget run https://raw.githubusercontent.com/Amenreus/minecraft-cc-apps/refs/heads/main/apps/installer/installer.lua clayman`
 
+**Pochodne**: <br/>
+`wget run https://raw.githubusercontent.com/Amenreus/minecraft-cc-apps/refs/heads/main/apps/installer/installer.lua pochodne`
+
 ## Autoři
 [Amenreus](https://www.youtube.com/@Amenreus) a [Tlapka](https://www.youtube.com/@xTlapka)
 
@@ -23,10 +26,14 @@ Custom applications for the CC:Tweaked mod for Minecraft game created for the vi
 `wget run https://raw.githubusercontent.com/Amenreus/minecraft-cc-apps/refs/heads/main/apps/installer/installer.lua <název_aplikace>`
 
 ## Applications and their installation:
-**Make-J**: `wget run https://raw.githubusercontent.com/Amenreus/minecraft-cc-apps/refs/heads/main/apps/installer/installer.lua makej`
+**Make-J**: <br/>
+`wget run https://raw.githubusercontent.com/Amenreus/minecraft-cc-apps/refs/heads/main/apps/installer/installer.lua makej`
 
 **Clayman**: <br/>
 `wget run https://raw.githubusercontent.com/Amenreus/minecraft-cc-apps/refs/heads/main/apps/installer/installer.lua clayman`
+
+**Pochodne**: <br/>
+`wget run https://raw.githubusercontent.com/Amenreus/minecraft-cc-apps/refs/heads/main/apps/installer/installer.lua pochodne`
 
 ## Authors
 [Amenreus](https://www.youtube.com/@Amenreus) and [Tlapka](https://www.youtube.com/@xTlapka)
