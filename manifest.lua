@@ -1,4 +1,5 @@
 return {
     makej = { file = "manifest.lua", repoPath = "main/apps/makej" },
-    clayman = { file = "manifest.lua", repoPath = "main/apps/clayman" }
+    clayman = { file = "manifest.lua", repoPath = "main/apps/clayman" },
+    pochodne = { file = "manifest.lua", repoPath = "main/apps/pochodne" },
 }
